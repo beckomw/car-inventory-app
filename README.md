@@ -1,9 +1,4 @@
-# CarCar -  
-
-Team:
-
-* Wayne - Inventory(api,Automobiles props) + Frontend(react) + Readme + Styling
-* Vincent - Sales + Service + Backend
+# CarCar - A simple inventory for a small car buisness. 
 
 
 
